@@ -1,0 +1,52 @@
+header{
+	background-color: rgba(63,81,84,1);
+	color: white;
+}
+#headline{	
+	display: inline-block;
+	margin: auto;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#headline h2{
+	display: block;
+	float:left;
+    font-weight: bold;
+	padding-right: 950px;
+    -webkit-margin-before: 0;
+    height: 20px;
+} 
+
+#headline h3{
+	display: block;
+	float:right;
+	text-decoration: underline;
+}
+body{
+	background-color: rgba(63,81,84,0.85);
+	color: white;
+}
+#about{
+	font-family: sans-serif;
+	font-size: 20px;
+}
+li{
+	display:inline-block;
+	padding-right: 175px;
+}
+#button{
+	background-color:rgba(63,81,84,0.85);
+	text-align: center;
+}
+footer{
+	font-size: 20px;
+	background-color: white;
+	color: black;
+}
+button{
+	font-size: 50px;
+	border: groove;
+	background-color: black;
+	color:white;
+	text-align: center;
+}
